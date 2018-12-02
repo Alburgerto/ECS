@@ -1,0 +1,3 @@
+Name Alphys
+CTransform 0 400
+CRender Assets/Textures/Alphys.jpg

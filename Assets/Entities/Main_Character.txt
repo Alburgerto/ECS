@@ -1,0 +1,17 @@
+// Name <Name>
+Name Main_Character
+
+// 200 200 -> upper left point of sprite
+CTransform 200 200
+
+// CRender <URL for sprite /(spritesheet + coordinates for different sprites (4 int value for each coordinate))>
+CRender Assets/Textures/Avatar1.png
+
+// CInput <Actions>
+CInput Left Right Up Down
+
+// CPhysics Velocity
+CPhysics 400 
+
+// CCollider width height (y coordinate offset) (debug option)
+CCollider 256 256 128 1

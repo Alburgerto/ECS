@@ -1,0 +1,5 @@
+Name Left_Frame
+// CTransform -200 0
+// CCollider 200 600
+CTransform 0 0
+CCollider 100 600 0 1

@@ -1,0 +1,5 @@
+Name Upper_Frame
+//CTransform 100 -100
+//CCollider 600 100
+CTransform 100 0
+CCollider 600 100 0 1

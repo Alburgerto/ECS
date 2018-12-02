@@ -1,0 +1,5 @@
+Name Right_Frame
+// CTransform 800 0
+// CCollider 200 600
+CTransform 700 0
+CCollider 100 600 0 1

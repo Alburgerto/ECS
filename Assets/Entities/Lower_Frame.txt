@@ -1,0 +1,3 @@
+Name Lower_Frame
+CTransform 100 500
+CCollider 600 100 0 1
