@@ -15,6 +15,5 @@ public:
 
 private:
 	std::unordered_map<std::shared_ptr<Entity>, std::shared_ptr<CInput>> m_entitiesInput;
-
 };
 
